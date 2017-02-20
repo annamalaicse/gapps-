@@ -1,4 +1,4 @@
-This Address book Project using REST API. Clients can post the data via Postman
+This Address book Project using REST API based on core.php. Clients can post the data via Postman
 this application will handle the request and gives a response
 
 To Run the Program
